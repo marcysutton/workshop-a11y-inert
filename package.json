@@ -1,0 +1,15 @@
+{
+  "name": "workshop-a11y-inert",
+  "version": "1.0.0",
+  "description": "A little demo project for testing the inert attribute and WICG polyfill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Marcy Sutton",
+  "license": "ISC",
+  "dependencies": {
+    "wicg-inert": "^3.1.0"
+  }
+}
